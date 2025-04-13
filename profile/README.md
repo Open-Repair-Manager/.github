@@ -8,7 +8,7 @@ Open Repair Manager is a suite of tools designed to make managing your Repair Ca
 
 - Quick setup, either locally or on a cloud server
 - Compatible with iOS, Android, Windows and macos
-- Detailed trqcking of repair items, to the [Open Repair Data Standard](https://openrepair.org/open-data/open-standard/)
+- Detailed tracking of repair items, to the [Open Repair Data Standard](https://openrepair.org/open-data/open-standard/)
 - 100% free and open source!
 
 
