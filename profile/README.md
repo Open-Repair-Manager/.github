@@ -1,4 +1,4 @@
-![Open Repair Manager Logo](https://i.ibb.co/99Qyb1sc/image.png)
+![Open Repair Manager Logo](https://github.com/Open-Repair-Manager/OpenRepairManager.MAUI/blob/954969a61225b32208da8ba45a8d0f5a34963259/OpenRepairManager.MAUI/Resources/Splash/ormlogoext.png)
 
 # Repair Cafe/Community Repair Group Management
 
